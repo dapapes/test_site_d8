@@ -1,0 +1,14 @@
+uuid: c9a71cc8-2c14-4b7e-a6c2-80012e7aaf93
+name: test-site-d8
+mail: dpape@nettango.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
